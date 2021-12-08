@@ -30,7 +30,7 @@
                             @enderror
                         </div>
                         <div class="form-group">
-                            <button class="btn btn-primary btn-block">Register</button>
+                            <button class="btn btn-primary btn-block">Login</button>
                         </div>
                     </form>
                     <p class="mb-0">Don't have an account?
